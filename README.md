@@ -44,7 +44,6 @@ Data cleaning and preprocessing were performed using Excel before connecting to 
 | *Microsoft Excel* | Data cleaning and preparation             |
 | *GitHub*          | Version control and portfolio hosting     |
 
-![Amazon Sales Dashboard Preview](Amazon dashboard.jpg)
 ![Amazon Sales Dashboard Preview](dashboard_preview.png)
 
 
