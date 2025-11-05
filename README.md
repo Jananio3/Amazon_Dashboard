@@ -1,4 +1,3 @@
-# Amazon_Dashboard
 # Amazon Sales Analysis Dashboard – India
 
 **Overview:-**
@@ -34,7 +33,8 @@ The dataset contains key transactional and operational sales fields such as:
   - Product Category and Sub-Category
   - Sales, Profit, Quantity
   - Customer Segment, City, and State
-Data Source: Publicly available e-commerce dataset (Amazon India simulated sales data).
+Data Source:
+![Amazon dashboard](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?select=Amazon+Sale+Report.csv)
 Data cleaning and preprocessing were performed using Excel before connecting to Tableau.
 
 **Tools & Technologies Used**
@@ -44,7 +44,7 @@ Data cleaning and preprocessing were performed using Excel before connecting to 
 | *Microsoft Excel* | Data cleaning and preparation             |
 | *GitHub*          | Version control and portfolio hosting     |
 
-![Amazon Sales Dashboard Preview](dashboard_preview.png)
+
 ![Amazon dashboard](https://github.com/user-attachments/assets/e70fe858-5b87-4a4c-8d52-f72d121f10a7)
 
 
