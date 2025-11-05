@@ -1,6 +1,7 @@
 # Amazon Sales Analysis Dashboard – India
 
 **Overview:-**
+
 This Tableau dashboard provides a comprehensive analysis of Amazon’s sales performance in India, showcasing revenue trends, profit distribution, customer behavior, and product performance. The goal of the project is to derive actionable business insights from raw sales data and present them through interactive visualizations that support data-driven decision-making.
 
 **Objectives:-**
@@ -33,6 +34,7 @@ The dataset contains key transactional and operational sales fields such as:
   - Product Category and Sub-Category
   - Sales, Profit, Quantity
   - Customer Segment, City, and State
+
 Data cleaning and preprocessing were performed using Excel before connecting to Tableau.
 
 **Data Source:** https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?select=Amazon+Sale+Report.csv
