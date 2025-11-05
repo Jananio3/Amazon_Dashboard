@@ -45,5 +45,6 @@ Data cleaning and preprocessing were performed using Excel before connecting to 
 | *GitHub*          | Version control and portfolio hosting     |
 
 ![Amazon Sales Dashboard Preview](dashboard_preview.png)
+![Amazon dashboard](https://github.com/user-attachments/assets/e70fe858-5b87-4a4c-8d52-f72d121f10a7)
 
 
